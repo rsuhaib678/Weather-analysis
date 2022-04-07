@@ -1,6 +1,6 @@
 # Analysis of weather parameters in monthly and seasonal Values
 
+Analysis of different weather parameters. The result were visualized by creating infographics.
 
-![Web capture_5-1-2022_135121_localhost](https://user-images.githubusercontent.com/81761180/148228768-e36efe83-2e3a-4610-9798-0d6fe41a0b5c.jpeg)
 
 
