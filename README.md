@@ -1,6 +1,6 @@
 ## Weather analysis of Winterbourne, UK. Analysis visualized using monthly and seasonal infographic.
 
-Pleaserefer monthly.pdf and seasonal.pdf for analysis overview.
+Please refer monthly.pdf and seasonal.pdf for analysis overview.
 
 The code notebook in explained in details using makrdown cell.
 
