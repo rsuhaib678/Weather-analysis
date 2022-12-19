@@ -2,7 +2,7 @@
 
 Please refer monthly.pdf and seasonal.pdf for analysis overview.
 
-Thecode notebook is explained in details using makrdown cell.
+The code notebook is explained in details using makrdown cell.
 
 Motivated to replicate it for a larger area of UK and combining it with machine learning.
 
