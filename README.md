@@ -1,4 +1,4 @@
-**Weather analysis of Winterbourne, UK. Analysis visualized using monthly and seasonal infographic**
+**Weatheranalysis of Winterbourne, UK. Analysis visualized using monthly and seasonal infographic**
 
 Please refer monthly.pdf and seasonal.pdf for analysis overview.
 
